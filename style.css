@@ -16,7 +16,6 @@
 }
 
 .box{
-    background-color: indianred;
     display: flex;
     align-items: center;
     justify-content: center;
